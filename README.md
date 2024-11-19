@@ -15,6 +15,6 @@ Pittsburgh American Community Survey - Household Income (12 Months): https://dat
 
 Allegheny County - Median Age of Death 2011 - 2015: https://data.wprdc.org/dataset/median-age-death/resource/c2e1500a-a12a-4e91-be94-76c6a892b7e2
 
-Playgrounds - Most Amount of Playground Data: [https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh/resource/6dfd4f8f-cbf5-4917-a5eb-fd07f440316](https://data.wprdc.org/datastore/dump/47350364-44a8-4d15-b6e0-5f79ddff9367)
+City of Pittsburgh Playgrounds - Most Amount of Playground Data: [https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh/resource/6dfd4f8f-cbf5-4917-a5eb-fd07f440316](https://data.wprdc.org/datastore/dump/47350364-44a8-4d15-b6e0-5f79ddff9367)
 
 
