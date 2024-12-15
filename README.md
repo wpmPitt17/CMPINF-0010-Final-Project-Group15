@@ -2,7 +2,10 @@
 
 Team Name:
 
-Members: Wyatt McMullen, James Bigomero, Tanner Miklos
+Members: 
+Wyatt McMullen - wpm17@pitt.edu
+James Bigomero - jab936@pitt.edu
+Tanner Miklos - tjm235@pitt.edu
 
 This Project: 
 
