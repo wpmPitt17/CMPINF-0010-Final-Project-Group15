@@ -2,12 +2,15 @@
 
 Team Name:
 
-Members: Wyatt McMullen, James Bigomero, Tanner Miklos
+Members: 
+Wyatt McMullen - wpm17@pitt.edu
+James Bigomero - jab936@pitt.edu
+Tanner Miklos - tjm235@pitt.edu
 
 This Project: 
 
 An analysis of the neighbors of the greater Pittsburgh area using WPRDC datasets to try and statistically determine
-the 'best' neighborhood in relation to multiple data points.
+the 'best' neighborhood in utilizing datasets from the WPRDC analyzed with python's panda data analysis framework.
 
 Datasets:
 
